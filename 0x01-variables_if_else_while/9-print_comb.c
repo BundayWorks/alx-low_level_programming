@@ -7,6 +7,7 @@
  *Return 0
 */
 
+
 int main(void)
 {
 	int c = 0;
@@ -19,10 +20,10 @@ int main(void)
 			putchar(',');
 			putchar(' ');
 		}
-		c++
+		c++;
 	}
 
 	putchar('\n');
-	return(0)
+	return(0);
 }
-	
+
