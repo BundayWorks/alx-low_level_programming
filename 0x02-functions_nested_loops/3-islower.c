@@ -2,7 +2,7 @@
 
 /**
  * _islower - check for lower case letter
- * @c: c is a parameter is lower or uppercase 
+ * @c: c is a parameter is lower or uppercase
  * Return: 0 or 1
 */
 
