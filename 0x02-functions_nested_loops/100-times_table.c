@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *  * times_table - print time table
- *   * Return : return an integer
+ * print_times_table - print time table
+ * @num : serves as the parameter passed in
+ * Return : return an integer
 */
 
 void print_times_table(int num)
